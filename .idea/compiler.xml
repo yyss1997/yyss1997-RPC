@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yyss1997-RPC-common" />
+        <module name="yyss1997-rpc-example" />
+        <module name="yyss1997-RPC-proto" />
+        <module name="yyss1997-RPC-codec" />
+        <module name="yyss1997-RPC-server" />
+        <module name="yyss1997-RPC-client" />
+        <module name="yyss1997-RPC-transport" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
